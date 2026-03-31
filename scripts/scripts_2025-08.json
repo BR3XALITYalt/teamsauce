@@ -1,0 +1,82 @@
+{
+  "guild": {
+    "id": "3NWPrgnD",
+    "name": "Team Sauce Scripts",
+    "iconUrl": "https://s3-us-west-2.amazonaws.com/www.guilded.gg/GroupAvatar/8c7b052158ad6159dceeb00f8c401630-Large.png?w=450&h=450"
+  },
+  "channel": {
+    "id": "bbefd863-c6ba-4822-b092-915ae1c5f579",
+    "type": "chat",
+    "category": "Team",
+    "categoryId": null,
+    "name": "scripts"
+  },
+  "dateRange": {
+    "before": "2025-09-10T00:00:00.000Z",
+    "after": "2025-08-10T00:00:00.000Z"
+  },
+  "exportedAt": "2025-11-09T22:37:41.769Z",
+  "messages": [
+    {
+      "id": "dd1955d1-39e8-4d19-bbf0-7cdb6f698f3a",
+      "type": "default",
+      "content": "@everyone I released it on roblox studio plugin marketplace, I hope it doesn't get banned\nhttps://create.roblox.com/store/asset/73470564435146",
+      "channelId": "bbefd863-c6ba-4822-b092-915ae1c5f579",
+      "createdBy": "4PV9rWMm",
+      "repliesToIds": [],
+      "isPinned": false,
+      "pinnedBy": null,
+      "teamId": "jJ9MNezE",
+      "timestamp": "2025-08-15T15:40:04.860Z",
+      "timestampEdited": null,
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [],
+      "content_plaintext": "@everyone I released it on roblox studio plugin marketplace, I hope it doesn't get banned\n🔗"
+    },
+    {
+      "id": "00b930e1-a50a-47b1-a875-c519774d1b82",
+      "type": "default",
+      "content": "@Dylan jake delta script",
+      "channelId": "bbefd863-c6ba-4822-b092-915ae1c5f579",
+      "createdBy": "4PV9rWMm",
+      "repliesToIds": [],
+      "isPinned": false,
+      "pinnedBy": null,
+      "teamId": "jJ9MNezE",
+      "timestamp": "2025-08-19T00:21:19.016Z",
+      "timestampEdited": null,
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [],
+      "content_plaintext": "@Dylan jake delta script"
+    },
+    {
+      "id": "e0830749-dcc3-4ed9-85df-4a4bbb8f7c0d",
+      "type": "default",
+      "content": "w",
+      "channelId": "bbefd863-c6ba-4822-b092-915ae1c5f579",
+      "createdBy": "AelGaRWm",
+      "repliesToIds": [],
+      "isPinned": false,
+      "pinnedBy": null,
+      "teamId": "jJ9MNezE",
+      "timestamp": "2025-08-19T04:24:38.563Z",
+      "timestampEdited": null,
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [],
+      "content_plaintext": "w"
+    }
+  ],
+  "messageCount": 3
+}
